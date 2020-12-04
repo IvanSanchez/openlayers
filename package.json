@@ -100,6 +100,7 @@
     "shx": "^0.3.2",
     "sinon": "^9.0.0",
     "terser-webpack-plugin": "^3.0.0",
+    "threads": "^1.6.3",
     "typescript": "^3.8.3",
     "url-polyfill": "^1.1.5",
     "walk": "^2.3.9",
